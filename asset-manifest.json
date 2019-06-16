@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/joaofernando/static/css/main.69b0e579.chunk.css",
-    "main.js": "/joaofernando/static/js/main.ca80f14a.chunk.js",
-    "main.js.map": "/joaofernando/static/js/main.ca80f14a.chunk.js.map",
+    "main.css": "/joaofernando/static/css/main.7bcca060.chunk.css",
+    "main.js": "/joaofernando/static/js/main.65cf71e4.chunk.js",
+    "main.js.map": "/joaofernando/static/js/main.65cf71e4.chunk.js.map",
     "runtime~main.js": "/joaofernando/static/js/runtime~main.fbb4ab4e.js",
     "runtime~main.js.map": "/joaofernando/static/js/runtime~main.fbb4ab4e.js.map",
-    "static/js/2.b41502e9.chunk.js": "/joaofernando/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/joaofernando/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.e3523a7a.chunk.js": "/joaofernando/static/js/2.e3523a7a.chunk.js",
+    "static/js/2.e3523a7a.chunk.js.map": "/joaofernando/static/js/2.e3523a7a.chunk.js.map",
     "index.html": "/joaofernando/index.html",
-    "precache-manifest.29ae6ae71ce4b710c3cb8994e61592dc.js": "/joaofernando/precache-manifest.29ae6ae71ce4b710c3cb8994e61592dc.js",
+    "precache-manifest.62bac7f3d4b3f521fc11819fa9d69250.js": "/joaofernando/precache-manifest.62bac7f3d4b3f521fc11819fa9d69250.js",
     "service-worker.js": "/joaofernando/service-worker.js",
-    "static/css/main.69b0e579.chunk.css.map": "/joaofernando/static/css/main.69b0e579.chunk.css.map",
-    "static/media/foto.JPG": "/joaofernando/static/media/foto.aacf15d6.JPG"
+    "static/css/main.7bcca060.chunk.css.map": "/joaofernando/static/css/main.7bcca060.chunk.css.map",
+    "static/media/100pre.png": "/joaofernando/static/media/100pre.4187a098.png",
+    "static/media/styles.css": "/joaofernando/static/media/background02.c751898e.jpeg",
+    "static/media/behance.png": "/joaofernando/static/media/behance.75c2c2b2.png",
+    "static/media/compac.png": "/joaofernando/static/media/compac.b07b156c.png",
+    "static/media/foto.JPG": "/joaofernando/static/media/foto.b3792138.JPG",
+    "static/media/logo.png": "/joaofernando/static/media/logo.99b37d1c.png",
+    "static/media/playing.JPG": "/joaofernando/static/media/playing.461e0361.JPG",
+    "static/media/rnative.png": "/joaofernando/static/media/rnative.8fc8cfc9.png",
+    "static/media/serv.png": "/joaofernando/static/media/serv.a72e6396.png",
+    "static/media/tamac.png": "/joaofernando/static/media/tamac.a9cd4c60.png"
   }
 }
