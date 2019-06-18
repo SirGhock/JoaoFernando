@@ -1,0 +1,70 @@
+.portfolioContainer{
+    background-image: url("../../resources/images/background02.jpeg");
+    background-attachment: fixed;
+    background-position: 40% 100%;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.activitiesContainer a{
+    text-decoration: none;
+    color: #e1e1e1ff;
+}
+.opacBack{
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: rgba(24, 23, 23, 0.63);
+}
+.opackback a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+#works{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.trab{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    opacity: 0.999;
+}
+.trab img{
+    width: 180px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#wras{
+    width: 210px;
+    height: 180px;
+}
+.trab img:hover{
+    opacity: 0.5;
+}
+
+@media (max-width: 600px){
+    .portfolioContainer{
+        background-image: url("../../resources/images/background02.jpeg");
+        background-attachment: fixed;
+        background-position: 40% 100%;
+        background-size: auto;
+    }
+    .opacBack{
+    background-color: rgba(24, 23, 23, 0.83);
+    }
+    #wras{
+        width: 100px;
+        height: 85px;
+    }
+    .trab img{
+    width: 80px;
+    height: 90px;
+    margin-bottom: 10px;
+}   
+}

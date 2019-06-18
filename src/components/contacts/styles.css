@@ -1,0 +1,8 @@
+img#contact{
+    width: 35px;
+    height: 35px;
+    margin: 5px 30px 5px 30px;
+}
+img#contact:hover{
+    opacity: 0.6;
+}

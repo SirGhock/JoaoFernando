@@ -1,0 +1,18 @@
+#habilities{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#habilities li{
+    text-decoration: none;
+    list-style: none;
+    background-color: #1d1d1dff;
+    padding: 5px 10px 5px 10px;
+    margin: 5px;
+    margin-right: 30px;
+}
+
+#habilities li:hover{
+    opacity: 0.5;
+}

@@ -1,0 +1,32 @@
+#blogContainer{
+    text-align: center;
+}
+.blogContainer{
+    padding: 5px 20px 5px 20px;
+    background-color: #2d2d2dff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+}
+#blogText{
+    margin: 20px;
+    text-align: initial;
+    max-width: 500px;
+}
+#blogText a{
+    text-decoration: none;
+    color: #e1e1e1ff;
+}
+#blogText h3{
+    opacity: 0.7;
+}
+#blogText p{
+    opacity: 0.4;
+}
+#blogImage{
+    margin-top: 10px;
+}

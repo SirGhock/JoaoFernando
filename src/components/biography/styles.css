@@ -1,0 +1,28 @@
+img#playingPhoto{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.biographyContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.textContainer{
+    width: 400px;
+    margin: 10px;
+    background-color: #1d1d1dff;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px
+}
+.textContainer p{
+    text-align: justify;
+}
+@media (max-width: 600px) 
+{
+  img#playingPhoto{
+    display: none;
+   }
+}

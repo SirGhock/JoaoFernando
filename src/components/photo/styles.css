@@ -1,0 +1,12 @@
+img#mainPhoto{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+#indexAnchor p{
+    margin-left: 5px;
+    margin-right: 5px;
+}

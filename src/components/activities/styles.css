@@ -1,0 +1,51 @@
+.activitiesContainer{
+    background-color: #1d1d1dff;
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    flex-wrap: wrap;
+}
+#actHeader{
+    margin-top: 50px;
+    padding-top: 30px;
+    background-color: #1d1d1dff;
+    margin-bottom: 0;
+}
+.activitiesContainer a{
+    text-decoration: none;
+    color: #e1e1e1ff;
+}
+.act{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0.5;
+}
+.act:hover{
+    opacity: 0.999;
+}
+.act img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.act img:hover{
+    width: 250px;
+    height: 250px;
+}
+
+
+@media (max-width: 600px){
+  .act img{
+        width: 50px;
+        height: 50px;
+   }
+   .act{
+       max-width: 90px;
+   }
+}
